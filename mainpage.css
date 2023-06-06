@@ -1,0 +1,32 @@
+body{
+    background-image:url(images\ \(1\).jpeg);
+    
+    background-size:cover;
+    
+    
+    }
+    
+    #burger {
+    
+        font-size: 40px; 
+        padding: 20px;
+        margin: 20px;
+    }
+
+    #pasta {
+    
+        font-size: 40px; 
+        padding: 20px;
+        margin: 20px;
+    }
+
+    #pizza {
+    
+        font-size: 40px; 
+        padding: 20px;
+        margin: 20px;
+    }
+
+    .header {
+       color: white;
+    }
